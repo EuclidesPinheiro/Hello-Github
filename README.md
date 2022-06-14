@@ -1,2 +1,5 @@
 # Hello Github
- Primeiro repositório versionado 
+ Primeiro repositório versionado
+
+ This is my first repository. im learning how to use git and github
+ This repository was created during a live class on youtube!
